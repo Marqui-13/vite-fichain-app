@@ -1,4 +1,4 @@
-Sure! Below is a sample README.md content for your project "FiChain". Feel free to adjust it to match your project's specifics and additional details you might want to include.
+
 
 ```markdown
 # FiChain
