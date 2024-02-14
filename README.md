@@ -1,6 +1,4 @@
 
-
-```markdown
 # FiChain
 
 FiChain, a cutting-edge blockchain-based application, leverages the power of modern web technologies to offer users a seamless experience in interacting with the Ethereum blockchain. With an eye-catching interface, robust blockchain connectivity, MetaMask integration, and dynamic smart contract interactions, FiChain stands out as a premier platform for Ethereum transactions and Solidity development.
@@ -12,21 +10,18 @@ FiChain, a cutting-edge blockchain-based application, leverages the power of mod
 - Tailwind CSS
 - Hardhat
 - Remix
-- Sanity
-- Gun.js
-- Netlify
 - Vite (for development)
 - Fleek (for deployment)
 
 ## Features
 
-- **Ethereum Transfers**: Enables seamless transfer of Ethereum across the blockchain network.
-- **Smart Contract Interactions**: Users can interact with smart contracts directly within the app.
-- **MetaMask Integration**: Offers a straightforward way to connect and manage blockchain transactions via MetaMask.
-- **Decentralized Data Storage**: Incorporates Gun.js for decentralized, peer-to-peer data storage.
-- **Content Management**: Utilizes Sanity for efficient management of the app's content.
-- **Eye-Catching Interface**: Designed with Tailwind CSS, ensuring a responsive and visually appealing layout.
-- **Rapid Loading Speeds**: Crafted using Vite and deployed on Fleek for lightning-fast performance and user experience.
+- Ethereum Transfers: Enables seamless transfer of Ethereum across the blockchain network.
+- Smart Contract Interactions: Users can interact with smart contracts directly within the app.
+- MetaMask Integration: Offers a straightforward way to connect and manage blockchain transactions via MetaMask.
+- Decentralized Data Storage: Incorporates Gun.js for decentralized, peer-to-peer data storage.
+- Content Management: Utilizes Sanity for efficient management of the app's content.
+- Eye-Catching Interface: Designed with Tailwind CSS, ensuring a responsive and visually appealing layout.
+- Rapid Loading Speeds: Crafted using Vite and deployed on Fleek for lightning-fast performance and user experience.
 
 ## Getting Started
 
